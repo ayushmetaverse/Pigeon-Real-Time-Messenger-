@@ -33,7 +33,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/
+https://github.com/](https://github.com/ayushmetaverse/Pigeon-Real-Time-Messenger-.git
 ```
 
 ### Install packages
